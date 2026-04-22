@@ -1,0 +1,8 @@
+https://leetcode.com/problems/merge-intervals/description  ✅
+https://leetcode.com/problems/insert-interval/description/ ✅
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/✅
+https://leetcode.com/problems/next-permutation/description/✅
+https://leetcode.com/problems/subarray-sum-equals-k/description/ ✅
+https://leetcode.com/problems/subarray-sums-divisible-by-k/description/ ✅
+https://leetcode.com/problems/container-with-most-water/description/
+https://leetcode.com/problems/jump-game/description/ ✅
